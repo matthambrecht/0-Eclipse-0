@@ -1,9 +1,9 @@
 # **0-Eclipse-0**
 >I used to code for fun but now my programs serve mostly for Penetration-Testing
-and CyberSecurity purposes. I no longer program as much as a moreso specialize
-in the CyberSecurity field so I mostly use my programming skills for automation
-these days. My programs are great if you want to get into penetration-testing
-or cyber-security, specifically wireless hacking so below are some programs that
+and CyberSecurity purposes. I no longer program as much as I specialize
+in CyberSecurity so I mostly my programming skills are used for automation
+these days. My programs are great however if you want to get into penetration-testing
+or CyberSecurity, specifically wireless hacking so below are some programs that
 are useful for wireless penetration testing.
 
 ## CyberSec Programs
