@@ -9,6 +9,7 @@ are useful for wireless penetration testing.
 ## CyberSec Programs
 >- [**SunnyPot**](https://github.com/0-Eclipse-0/SunnyPot) - Simple but effective python HoneyPot
 >- [**LightDaFuse**](https://github.com/0-Eclipse-0/LightDaFuse) - E-mail Bomber (Proof of concept, use at your own discression)
+>- [**InBox**](https://github.com/0-Eclipse-0/InBox) - Extension of LightDaFuse with more functions (Email toolkit: Spoofing, Bombing, etc.)
 
 ## Information Retrieval
 >- [**GetDaGateway**](https://github.com/0-Eclipse-0/GetDaGateway) - Retrieves gateway address
