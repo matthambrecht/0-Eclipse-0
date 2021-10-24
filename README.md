@@ -13,6 +13,7 @@ are useful for wireless penetration testing.
 >- [**InBox**](https://github.com/0-Eclipse-0/InBox) - Extension of LightDaFuse with more functions (Email toolkit: Spoofing, Bombing, etc.)
 >- [**SwitchDaMac**](https://github.com/0-Eclipse-0/SwitchDaMac) - MAC Address Spoofer (MAC-Chain)
 >- [**Scanny**](https://github.com/0-Eclipse-0/Scanny) - Simple NetCat based port scanner
+>- [**InfoGen**](https://github.com/0-Eclipse-0/InfoGen) - Information generator for social engineering
 
 ## Information Retrieval
 >- [**GetDaGateway**](https://github.com/0-Eclipse-0/GetDaGateway) - Retrieves gateway address
