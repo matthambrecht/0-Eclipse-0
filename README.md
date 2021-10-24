@@ -1,4 +1,4 @@
-# **0-Eclipse-0** - Security?
+# **0-Eclipse-0**
 >I used to code for fun but now my programs serve mostly for Penetration-Testing
 and CyberSecurity purposes. I no longer program as much as I specialize
 in CyberSecurity so I mostly my programming skills are used for automation
