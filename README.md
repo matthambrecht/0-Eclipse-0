@@ -14,9 +14,16 @@ are useful for wireless penetration testing.
 >- [**SwitchDaMac**](https://github.com/0-Eclipse-0/SwitchDaMac) - MAC Address Spoofer (MAC-Chain)
 >- [**Scanny**](https://github.com/0-Eclipse-0/Scanny) - Simple NetCat based port scanner
 >- [**InfoGen**](https://github.com/0-Eclipse-0/InfoGen) - Information generator for social engineering
+>- [**ChexMix**](https://github.com/0-Eclipse-0/ChexMix) - Shell proxy checker. Wow I must really like proxies.
+>- [**SpoofDaArp**](https://github.com/0-Eclipse-0/SpoofDaARP) - ARP Spoofer for packet sniffing
 
 ## Information Retrieval
 >- [**GetDaGateway**](https://github.com/0-Eclipse-0/GetDaGateway) - Retrieves gateway address
+
+## Let's Make Our Lives Easier
+>- [**FormatDaHex**](https://github.com/0-Eclipse-0/FormatDaHex) - Puts hex in ASCII escape format for C/C++ programs
+>- [**SimplifyDaPhantom**](https://github.com/0-Eclipse-0/SimplifyDaPhantom) - Don't exactly remember why I made this, pretty sure I was just attempting to automate headless browser requests but who really knows
+>- [**RegexRepo**](https://github.com/0-Eclipse-0/RegexRepo) - List of RegEx strings for automation
 
 ## Formalities
 > [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)\
