@@ -10,6 +10,7 @@ are useful for wireless penetration testing.
 >- [**SunnyPot**](https://github.com/0-Eclipse-0/SunnyPot) - Simple but effective python HoneyPot
 >- [**LightDaFuse**](https://github.com/0-Eclipse-0/LightDaFuse) - E-mail Bomber (Proof of concept, use at your own discression)
 >- [**InBox**](https://github.com/0-Eclipse-0/InBox) - Extension of LightDaFuse with more functions (Email toolkit: Spoofing, Bombing, etc.)
+>- [**Scanny**](https://github.com/0-Eclipse-0/Scanny) - Simple NetCat based port scanner
 
 ## Information Retrieval
 >- [**GetDaGateway**](https://github.com/0-Eclipse-0/GetDaGateway) - Retrieves gateway address
