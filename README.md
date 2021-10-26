@@ -7,7 +7,7 @@ or CyberSecurity, specifically wireless hacking so below are some programs that
 are useful for wireless penetration testing.
 
 ## CyberSec Programs
->- [**BoXy**](https://gitbub.com/0-Eclipse-0/BoXy) - A proxy swiss-army knife for Gnome (WIP cause I fucked it up back in the day)
+>- [**BoXy**](https://gitbub.com/0-Eclipse-0/BoXy) - A proxy swiss-army knife for Gnome (Broken WIP w/ shitty syntax because I fucked it up back in the day)
 >- [**SunnyPot**](https://github.com/0-Eclipse-0/SunnyPot) - Simple but effective python HoneyPot
 >- [**LightDaFuse**](https://github.com/0-Eclipse-0/LightDaFuse) - E-mail Bomber (Proof of concept, use at your own discression)
 >- [**InBox**](https://github.com/0-Eclipse-0/InBox) - Extension of LightDaFuse with more functions (Email toolkit: Spoofing, Bombing, etc.)
