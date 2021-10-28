@@ -1,23 +1,26 @@
 # **0-Eclipse-0**
 >I used to code for fun but now my programs serve mostly for Penetration-Testing
 and CyberSecurity purposes. I no longer program as much as I specialize
-in CyberSecurity so I mostly my programming skills are used for automation
+in CyberSecurity so I mostly my programming skills are used for automation and staging
 these days. My programs are great however if you want to get into penetration-testing
-or CyberSecurity, specifically wireless hacking so below are some programs that
-are useful for wireless penetration testing.
+or CyberSecurity, specifically network hacking so below are some programs that
+are useful for wireless penetration testing. Many of these programs are older and less
+efficient due to lack of experience at the time they were created however I do plan to release 
+some of my more up to ones as my time permits.
 
-## CyberSec Programs
+## CyberSec Programs (Not intended for malicious use)
 >- [**SunnyPot**](https://github.com/0-Eclipse-0/SunnyPot) - Simple but effective python HoneyPot
 >- [**LightDaFuse**](https://github.com/0-Eclipse-0/LightDaFuse) - E-mail Bomber (Proof of concept, use at your own discression)
 >- [**InBox**](https://github.com/0-Eclipse-0/InBox) - Extension of LightDaFuse with more functions (Email toolkit: Spoofing, Bombing, etc.)
 >- [**SwitchDaMac**](https://github.com/0-Eclipse-0/SwitchDaMac) - MAC Address Spoofer (MAC-Chain)
->- [**Scanny**](https://github.com/0-Eclipse-0/Scanny) - Simple NetCat based port scanner
 >- [**InfoGen**](https://github.com/0-Eclipse-0/InfoGen) - Information generator for social engineering
 >- [**ChexMix**](https://github.com/0-Eclipse-0/ChexMix) - Shell proxy checker. Wow I must really like proxies.
->- [**SpoofDaArp**](https://github.com/0-Eclipse-0/SpoofDaARP) - ARP Spoofer for packet sniffing
 
-## Information Retrieval
+## Information Retrieval & Staging
+>- [**SpoofDaArp**](https://github.com/0-Eclipse-0/SpoofDaARP) - ARP Spoofer for packet sniffing
 >- [**GetDaGateway**](https://github.com/0-Eclipse-0/GetDaGateway) - Retrieves gateway address
+>- [**Scanny**](https://github.com/0-Eclipse-0/Scanny) - Simple NetCat based port scanner
+
 
 ## Let's Make Our Lives Easier
 >- [**FormatDaHex**](https://github.com/0-Eclipse-0/FormatDaHex) - Puts hex in ASCII escape format for C/C++ programs
