@@ -3,12 +3,7 @@
 ![Eclipse](https://i.imgur.com/zHIJClh.gif)
 ```
 ```
->I no longer program as much as I specialize in CyberSecurity so mostly code for automation and staging purposes
-these days. My programs are great however if you want to get into penetration-testing
-or CyberSecurity, specifically network hacking so below are some programs that
-are useful for wireless penetration testing. Many of these programs are older and less
-efficient due to lack of experience at the time they were created however I do plan to release 
-some of my more up to ones as my time permits.
+>Yes, most of my programs are coded like crap, do I care? No. Why? Because I'm a failed Pre-Med Biochemistry major (didn't fail just wasn't happy) turned CyberSecurity major and made majority of this junk years ago (**some** of it is actually kind of useful) when I wasn't even planning on going into a computer related field. Also if you're wondering why some of the programs have portions that are Hex->ASCII, yes, they're safe, no, I don't know why I did it.
 
 ## CyberSec Programs (Not intended for malicious use)
 >- [**SunnyPot**](https://github.com/0-Eclipse-0/SunnyPot) - Simple but effective python HoneyPot
