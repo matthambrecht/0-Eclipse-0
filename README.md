@@ -3,7 +3,7 @@
 ![Eclipse](https://i.imgur.com/zHIJClh.gif)
 ```
 ```
-> ### ** Ignore My Page **
+> # Ignore My Page 
 
 ## Formalities
 > [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)\
