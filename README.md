@@ -8,7 +8,7 @@
 # Matthew Hambrecht   •   UMBC 2025
 
 >
-## Proejcts
+## Projects
 > #### Current Projects
 > - SunnyPot: Portable HoneyPot for home networks
 > #### Older Self-Taught Programs
