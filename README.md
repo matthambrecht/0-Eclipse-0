@@ -11,7 +11,7 @@
 ## Projects
 > #### Current Projects
 > - SunnyPot: Portable HoneyPot for home networks
-> #### Older Self-Taught Programs (Lower Quality
+> #### Older Self-Taught Programs (Lower Quality)
 > - BoXy: Proxy toolkit based on [ProxyCheck](http://www.corpit.ru/mjt/proxycheck)
 > - InBox: Email toolkit (based on LightDaFuse)
 > - LightDaFuse: Email spammer
