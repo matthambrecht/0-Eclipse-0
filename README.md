@@ -7,8 +7,6 @@
 ---
 # Matthew Hambrecht   •   UMBC 2025
 
->
-## Projects
 > ## Portfolio
 > - **SunnyPot**: Portable HoneyPot for home networks
 > - **AttendanceHandler**: Class project, GUI for parsing and searching through attendance data
