@@ -11,6 +11,7 @@
 > - **ScalpNotifier**: A facebook scalping program for notifying buyers of newly listed items of specified criteria.
 > - **SunnyPot**: Portable HoneyPot for home networks
 > - **AttendanceHandler**: Class project, GUI for parsing and searching through attendance data
+> - **Scalpddit**: Reddit forum scalping program based on ScalpNotifier for maintaining notifications about new posts fitting expected criteria.
 > ---
 > ## Older Self-Taught Programs (Lower Quality)
 > - **BoXy**: Proxy toolkit based on [ProxyCheck](http://www.corpit.ru/mjt/proxycheck)
