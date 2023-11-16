@@ -8,6 +8,7 @@
 # Matthew Hambrecht   •   UMBC 2025
 
 > ## Portfolio
+> - **FaceSync**: A Computer Vision body tracking program for CCTV cameras **[WIP]**
 > - **ScalpNotifier**: A facebook scalping program for notifying buyers of newly listed items of specified criteria.
 > - **SunnyPot**: Portable HoneyPot for home networks
 > - **AttendanceHandler**: Class project, GUI for parsing and searching through attendance data
