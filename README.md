@@ -14,7 +14,7 @@
 > - **AttendanceHandler**: Class project, GUI for parsing and searching through attendance data
 > - **Scalpddit**: Reddit forum scalping program based on ScalpNotifier for maintaining notifications about new posts fitting expected criteria.
 > ---
-> ## Older Self-Taught Programs (Lower Quality)
+> ## Older Programs
 > - **BoXy**: Proxy toolkit based on [ProxyCheck](http://www.corpit.ru/mjt/proxycheck)
 > - **InBox**: Email toolkit (based on LightDaFuse)
 > - **LightDaFuse**: Email spammer
