@@ -18,4 +18,4 @@
 > - **BoXy**: Proxy toolkit based on [ProxyCheck](http://www.corpit.ru/mjt/proxycheck)
 > - **InBox**: Email toolkit (based on LightDaFuse)
 > - **LightDaFuse**: Email spammer
-> - **InfoGen**: Ruby based information generator for social engineering
+> - **InfoGen**: Ruby based information generator for social engineering in penetration testing.
