@@ -9,9 +9,9 @@
 
 > ## Portfolio
 > - **FaceSync**: Streamline retrospective analysis of CCTV footage for precise event timing using multi-CCTV body detection, powered by computer vision algorithms and implemented in C++.
-> - **ScalpNotifier**: A facebook scalping program for notifying buyers of newly listed items of specified criteria.
-> - **SunnyPot**: Portable HoneyPot for home networks
-> - **AttendanceHandler**: Class project, GUI for parsing and searching through attendance data
+> - **ScalpNotifier**: Python-based multithreaded Facebook marketplace scalping program made using Selenium and BeautifulSoup for web scraping, SQlite3 for database management, and a Tornado Web Handler Graphical User Interface (GUI) made in HTML, CSS, and BootStrap5.
+> - **SunnyPot**: Honeypot made using sockets in Python with IP blacklisting, dynamic port configuration, configurable responses, and the ability to handle multiple concurrent connections.
+> - **AttendanceHandler**: JavaFX GUI application for parsing through CSV (Comma-Separated Values) formatted student attendance data stored in a custom Multimap container made using a HashMap with LinkedList buckets. 
 > - **Scalpddit**: Reddit forum scalping program based on ScalpNotifier for maintaining notifications about new posts fitting expected criteria.
 > ---
 > ## Older Programs
